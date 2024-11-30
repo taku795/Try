@@ -1,0 +1,11 @@
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\bin\Debug\UsernameNormalization.exe.config
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\bin\Debug\UsernameNormalization.exe
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\bin\Debug\UsernameNormalization.pdb
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\obj\Debug\UsernameNormalization.csproj.AssemblyReference.cache
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\obj\Debug\UsernameNormalization.Properties.Resources.resources
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\obj\Debug\UsernameNormalization.csproj.GenerateResource.cache
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\obj\Debug\UsernameNormalization.csproj.CoreCompileInputs.cache
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\obj\Debug\UsernameNormalization.exe
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\obj\Debug\UsernameNormalization.pdb
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\obj\Debug\UsernameNormalization.Login.resources
+C:\Users\takuf\source\Try\UsernameNormalization\UsernameNormalization\obj\Debug\UsernameNormalization.Home.resources
