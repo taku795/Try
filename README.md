@@ -20,29 +20,29 @@
 
 ❯ tree /f
 
-.UsernameNormalization
-    │  UsernameNormalization.sln
-    │
-    └─UsernameNormalization
-        │  App.config
-        │  Form1.cs
-        │  Form1.Designer.cs
-        │  Program.cs
-        │  UsernameNormalization.csproj
-        │
-        ├─bin
-        │  └─Debug
-        ├─obj
-        │  └─Debug
-        │      │  .NETFramework,Version=v4.7.2.AssemblyAttributes.cs
-        │      │  DesignTimeResolveAssemblyReferences.cache
-        │      │  DesignTimeResolveAssemblyReferencesInput.cache
-        │      │  UsernameNormalization.csproj.AssemblyReference.cache
-        │      │
-        │      └─TempPE
-        └─Properties
-                AssemblyInfo.cs
-                Resources.Designer.cs
-                Resources.resx
-                Settings.Designer.cs
+.UsernameNormalization  
+    │  UsernameNormalization.sln  
+    │  
+    └─UsernameNormalization  
+        │  App.config  
+        │  Form1.cs  
+        │  Form1.Designer.cs  
+        │  Program.cs  
+        │  UsernameNormalization.csproj  
+        │  
+        ├─bin  
+        │  └─Debug  
+        ├─obj  
+        │  └─Debug  
+        │      │  .NETFramework,Version=v4.7.2.AssemblyAttributes.cs  
+        │      │  DesignTimeResolveAssemblyReferences.cache  
+        │      │  DesignTimeResolveAssemblyReferencesInput.cache  
+        │      │  UsernameNormalization.csproj.AssemblyReference.cache  
+        │      │  
+        │      └─TempPE  
+        └─Properties  
+                AssemblyInfo.cs  
+                Resources.Designer.cs  
+                Resources.resx  
+                Settings.Designer.cs  
                 Settings.settings
