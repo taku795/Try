@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace UsernameNormalization
 {
-    public partial class FormControler : Form
+    public partial class FormController : Form
     {
         private Dictionary<string, Type> formMapp;
 
-        public FormControler()
+        public FormController()
         {
             formMapp = new Dictionary<string, Type>
             {
@@ -23,7 +23,23 @@ namespace UsernameNormalization
             };
         }
 
-        public void ShowForm(string formCode)
+        public static void pageTransition(Form formFrom, string formCdTo ,bool fromVisible)
+        {
+            // endApp：アプリ終了の合図
+            if (formCdTo == "endApp")
+            {
+                Application.Exit();
+            }
+
+            // staticで同クラス内メソッドを呼び出すため
+            FormController formController = new FormController();
+            // 遷移元表示非表示選択
+            formFrom.Visible = fromVisible;
+            // マッピングされている画面を文字列指定し画面遷移
+            formController.ShowForm(formCdTo);
+        }
+
+        private void ShowForm(string formCode)
         {
             if (formMapp.TryGetValue(formCode, out Type formType))
             {

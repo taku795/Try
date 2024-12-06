@@ -16,5 +16,15 @@ namespace UsernameNormalization
         {
             InitializeComponent();
         }
+
+        private void btnBuckToHome_Click(object sender, EventArgs e)
+        {
+            FormController.pageTransition(this, "G000",false);
+        }
+
+        private void btnEndApp_Click(object sender, EventArgs e)
+        {
+            FormController.pageTransition(this, "endApp", false);
+        }
     }
 }

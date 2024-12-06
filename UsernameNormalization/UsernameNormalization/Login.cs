@@ -28,22 +28,23 @@ namespace UsernameNormalization
             }
 
             // ユーザーIDとPWの検証
-
-            // セッションにユーザー情報を設定
+            if (canLogin(UserName.Text, PassWord.Text) == false) 
+            {
+                return;
+            }
 
             // 画面遷移
-            pageTransition(this, "G001");
+            FormController.pageTransition(this, "G001",false);
         }
 
-        private void pageTransition(Form formFrom, string formCdTo)
+        private bool canLogin(string userName, string passWorld)
         {
-            FormControler formMaster = new FormControler();
+            if (userName == "admin" && passWorld == "admin")
+            {
+                return true;
+            }
 
-            // 遷移元非表示
-            formFrom.Visible = false;
-
-            // マッピングされている画面を文字列指定し画面遷移
-            formMaster.ShowForm(formCdTo);
+            return false;
         }
 
         private bool existsInputMissing(string userName, string passWorld) 

@@ -1,6 +1,6 @@
 ﻿namespace UsernameNormalization
 {
-    partial class FormControler
+    partial class FormController
     {
         /// <summary>
         /// Required designer variable.
