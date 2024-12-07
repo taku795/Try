@@ -3,23 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\usernamenormalization\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|c:\\users\\takuf\\source\\try\\usernamenormalization\\usernamenormalization\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|solutionrelative:usernamenormalization\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|c:\\users\\takuf\\source\\try\\usernamenormalization\\usernamenormalization\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|solutionrelative:usernamenormalization\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\usernamenormalization\\formcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|solutionrelative:usernamenormalization\\formcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|c:\\users\\takuf\\source\\try\\usernamenormalization\\usernamenormalization\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\usernamenormalization\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|solutionrelative:usernamenormalization\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|c:\\users\\takuf\\source\\try\\usernamenormalization\\usernamenormalization\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|c:\\users\\takuf\\source\\try\\usernamenormalization\\usernamenormalization\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|solutionrelative:usernamenormalization\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|c:\\users\\takuf\\source\\try\\usernamenormalization\\usernamenormalization\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|solutionrelative:usernamenormalization\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\usernamenormalization\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5217D60B-C7FD-4992-858E-56AB50C9119B}|UsernameNormalization\\UsernameNormalization.csproj|solutionrelative:usernamenormalization\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Validation.cs",
-              "DocumentMoniker": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\Validation.cs",
-              "RelativeDocumentMoniker": "UsernameNormalization\\Validation.cs",
-              "ToolTip": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\Validation.cs",
-              "RelativeToolTip": "UsernameNormalization\\Validation.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\Login.cs",
+              "RelativeDocumentMoniker": "UsernameNormalization\\Login.cs",
+              "ToolTip": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\Login.cs",
+              "RelativeToolTip": "UsernameNormalization\\Login.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T21:05:39.905Z",
+              "WhenOpened": "2024-12-07T22:26:38.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ErrorMessage.cs",
+              "DocumentMoniker": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\ErrorMessage.cs",
+              "RelativeDocumentMoniker": "UsernameNormalization\\ErrorMessage.cs",
+              "ToolTip": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\ErrorMessage.cs",
+              "RelativeToolTip": "UsernameNormalization\\ErrorMessage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:21:48.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Home.Designer.cs",
               "DocumentMoniker": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\Home.Designer.cs",
               "RelativeDocumentMoniker": "UsernameNormalization\\Home.Designer.cs",
@@ -64,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FormControler.cs",
               "DocumentMoniker": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\FormControler.cs",
               "RelativeDocumentMoniker": "UsernameNormalization\\FormControler.cs",
               "ToolTip": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\FormControler.cs",
               "RelativeToolTip": "UsernameNormalization\\FormControler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T11:19:40.944Z",
               "EditorCaption": ""
@@ -83,22 +100,21 @@
               "RelativeDocumentMoniker": "UsernameNormalization\\Home.cs",
               "ToolTip": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\Home.cs",
               "RelativeToolTip": "UsernameNormalization\\Home.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwDIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T11:15:42.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Home.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\Home.cs",
               "RelativeDocumentMoniker": "UsernameNormalization\\Home.cs",
               "ToolTip": "C:\\Users\\takuf\\source\\Try\\UsernameNormalization\\UsernameNormalization\\Home.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "UsernameNormalization\\Home.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:13:58.417Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+              "WhenOpened": "2024-12-06T11:13:58.417Z"
             }
           ]
         }

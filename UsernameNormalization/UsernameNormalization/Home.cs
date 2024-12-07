@@ -37,7 +37,7 @@ namespace UsernameNormalization
             // 不要な文字がないか検証
             if (validation.exitUnnecessaryCharInUsername(BeforeUsernameNomalization.Text,pattern) == true)
             {
-                AfterNorma.Text = "Invalid username（英数字とアンダースコアのみ）";
+                AfterNorma.Text = ErrorMessage.getErrorMessage(ErrorCode.InvalidCharacters);
                 return;
             }
 
@@ -47,7 +47,7 @@ namespace UsernameNormalization
             // 文字数検証
             if (!(3 <= afterUsername.Length && afterUsername.Length <= 15))
             {
-                AfterNorma.Text = "Invalid username（3文字以上15文字以内）";
+                AfterNorma.Text = ErrorMessage.getErrorMessage(ErrorCode.InvalidLength);
                 return;
             }
 

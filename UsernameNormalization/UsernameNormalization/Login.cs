@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -21,6 +22,7 @@ namespace UsernameNormalization
 
         private void loginBtn_Click(object sender, EventArgs e)
         {
+            Debug.WriteLine(ErrorCode.InvalidLength);
             // 入力チェック
             if (existsInputMissing(UserName.Text, PassWord.Text) == true)
             {
@@ -32,6 +34,7 @@ namespace UsernameNormalization
             {
                 return;
             }
+
 
             // 画面遷移
             FormController.pageTransition(this, "G001",false);
